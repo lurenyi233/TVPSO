@@ -3,7 +3,7 @@ TVPSO
 
 Introduction
 ------------
-Time Variant PSO (TVPSO) [1] is a refinement of stochastic evolution algorithm Particle Swarm Optimization (PSO) [2]. PSO is mainly used in solving function optimization problems (find the optimal set of a n-dimensional vector subject to an evaluation function).
+Time Variant PSO (TVPSO) [1] is a refinement of stochastic evolution algorithm Particle Swarm Optimization (PSO) [2]. PSO is mainly used in solving function optimization problems (find the optimal set of an n-dimensional vector subject to an evaluation function).
 
 PSO uses a swarm of particles to simulate birds flocks looking for food. Each particle has a random initial position X and velocity V. The position X is an n-dimensional vector which represents a possible solution to the optimization problem. The objective function (evaluation function) targeted to be optimized is used to evaluate each particle position’s fitness. Higher fitness means a better position. For each particle, PSO uses pbest (persnal best) to record the best position this particle has arrived. For the whole swarm, gbest (global best) is used to record the global best position achieved by all particles. 
 
