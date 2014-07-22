@@ -15,5 +15,6 @@ Updating Methodology
 References
 ----------
 [1] A. Ratnaweera, S.K. Halgamuge, and H.C. Watson. Self-organizing hierarchical particle swarm optimizer with time-varying acceleration coefficients. IEEE Transactions on Evolutionary Computation, 8(3):240–255, 2004.
+
 [2] J. Kennedy and R. Eberhart. Particle swarm optimization. In Proceedings of IEEE International Conference on Neural Networks, Piscataway, NJ, volume 4, pages 1942–1948. IEEE, 1995.
 
