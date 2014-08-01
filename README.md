@@ -23,7 +23,7 @@ _c<sub>2t</sub> = (c<sub>2e</sub> - c<sub>2b</sub>)t / maxt + c<sub>2b</sub>_ <b
 where _w<sub>b</sub>_, _w<sub>t</sub>_ and _w<sub>e</sub>_ denote the beginning, current and end value of _w_ respectively (similar for _c<sub>1</sub>_ and _c<sub>2</sub>_), _t_ is the current iteration number and _maxt_ is the maximum number of iterations.
 
 ## Usage
-**pso.example.Example** gives a simple example of how to use TVPSO for function optimization. More details can be found in codes.
+Download source files or binary distribution tvpos.jar. **pso.example.Example** gives a simple example of how to use TVPSO for function optimization. More details can be found in codes.
 
 ## References
 [1] A. Ratnaweera, S.K. Halgamuge, and H.C. Watson. Self-organizing hierarchical particle swarm optimizer with time-varying acceleration coefficients. IEEE Transactions on Evolutionary Computation, 8(3):240–255, 2004.
